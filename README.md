@@ -3,13 +3,17 @@ The source code of my entry for the Demake Jam
 
 ## About
 This game is a demake of Grand Theft Auto 3 made by Rockstar in 2001.  
-It have been made for the Demake Jam in August 2018.  
+It has been made for the Demake Jam in August 2018.  
 The goal of this game jam was to "demake" an existing game (demake = opposite of remake).
 
 ## How to use the source code
 1. Download [Unity](https://unity3d.com)
 1. Download the source code
 1. Open the source code folder using Unity
+
+## Disclaimer
+Since this game has been made during a game jam, the code is not optimized and the files are pretty messy.  
+The game also has some frame drops and some bugs.
 
 ## Links
 * [Play this game](https://roucasse.itch.io/grand-theft-audio-3)
